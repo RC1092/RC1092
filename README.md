@@ -1,13 +1,18 @@
-### <center>Hi, I'm Rushi Chaudhary </center> 👋
-- Programming/Scripting Languages & Operating System<br>
-    <a href="https://www.python.org/" target="_blank"><img alt="Python" height="23px" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" /></a>
-    <img alt="C++" height="23px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img alt="C" height="23px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<center><h2> Hi, I'm Rushi Chaudhary  👋</h2> </center>
+
+
+
+
+- Programming/Scripting Languages & Operating System
+
+     <a href="https://www.python.org/" target="_blank"><img alt="Python" height="23px" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" /></a>
+     <img alt="C++" height="23px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+     <img alt="C" height="23px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
      <img alt="JavaScript" height="23px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
      <img alt="Dart" height="23px" src ="https://img.shields.io/badge/DART-blue?style=for-the-badge&logo=dart"/>
      <a href="GraphQL" target="_blank"><img alt="TensorFlow" height="23px" src="https://img.shields.io/badge/GraphQL-%23FFCC33?style=for-the-badge&logo=graphql&logoColor=6e40c9" /></a>
       <img alt="R" height="23px" src="https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=black" /></a>
-    <img alt="HTML" height="23px" src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+     <img alt="HTML" height="23px" src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
      <img alt="CSS" height="23px" src ="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3"/>
        <br>
     <img alt="Markdown" height="23px" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
@@ -17,16 +22,17 @@
 
 
     
-- Programming Frameworks and Libraries<br>
+- Programming Frameworks and Libraries
+
     <img alt="React" height="23px" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
-     <img alt="Nodejs" height="23px" src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
-   <img alt="Flutter" height="23px" src="https://img.shields.io/badge/Flutter-red?style=for-the-badge&logo=flutter&logoColor=blue" />
+    <img alt="Nodejs" height="23px" src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
+    <img alt="Flutter" height="23px" src="https://img.shields.io/badge/Flutter-red?style=for-the-badge&logo=flutter&logoColor=blue" />
     <img alt="Flask" height="23px" src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask" />
     <img alt="Socket.io" height="23px" src="https://img.shields.io/badge/Socket.io-%23e0e0e0?style=for-the-badge&logo=socket.io&logoColor=black" />
-   <img alt="Express.js" height="23px" src="https://img.shields.io/badge/Express.js-%2347A447?style=for-the-badge&logo=express&logoColor=black" />
+    <img alt="Express.js" height="23px" src="https://img.shields.io/badge/Express.js-%2347A447?style=for-the-badge&logo=express&logoColor=black" />
     <a href="TenserFlow" target="_blank"><img alt="TensorFlow" height="23px" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
-      <br>
-    <a href="https://keras.io/" target="_blank"><img alt="Keras" height="23px" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" /></a>
+    <br>
+    <img alt="Keras" height="23px" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" /></a>
     <a href="https://pytorch.org/" target="_blank"><img alt="PyTorch" height="23px" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /></a>
     <a href="https://scikit-learn.org/stable/" target="_blank"><img alt="scikit-learn" height="23px" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
 
